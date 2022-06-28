@@ -5,6 +5,7 @@
 > First project at Microverse.
 
 ![screenshot](./screenshot1.png)
+>>>>>>> main
 
 
 ## Built With
@@ -23,10 +24,16 @@
 
 👤 **Author**
 
-- GitHub: [@JackMwisa](https://github.com/JackMwisa)
-- Twitter: [@JackMwisa](https://twitter.com/jackmwisa)
-- LinkedIn: [@JackMwisa](https://www.linkedin.com/in/jack-mwisa-3a6203216/)
+<<<<<<< HEAD
+- GitHub: [@JackMwisa](https://github.com/githubhandle)
+- Twitter: [@JackMwisa](https://twitter.com/twitterhandle)
+- LinkedIn: [@JackMwisa](https://linkedin.com/in/linkedinhandle)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
