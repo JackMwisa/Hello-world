@@ -1,10 +1,10 @@
-body {
+body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 180px auto;
     font-size: 70px;
 }
-.block {
+.block{
     background-color: rgb(149, 30, 179);
     margin: 50px;
     color: white;
