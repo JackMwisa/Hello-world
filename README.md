@@ -2,7 +2,9 @@
 
 # Hello World
 
-> Description the project.
+> First project at Microverse.
+
+![screenshot](./screenshot1.png)
 
 
 ## Built With
@@ -21,9 +23,10 @@
 
 👤 **Author**
 
+
 - GitHub: [@JackMwisa](https://github.com/githubhandle)
 - Twitter: [@JackMwisa](https://twitter.com/twitterhandle)
-- LinkedIn: [JackMwisa](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [@JackMwisa](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
